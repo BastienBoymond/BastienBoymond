@@ -1,16 +1,21 @@
-### Hi there 👋
+## <center>Hi there I'm Bastien 👋 </centerb>
 
-<!--
-**BastienBoymond/BastienBoymond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<center><a href="https://www.linkedin.com/in/bastien-boymond-3bb2341bb/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/BastienBoymond" target="_blank"><img src="https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://discordapp.com/users/348600729314918411" target="_blank"><img src="https://img.shields.io/badge/-Discord-grey.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></center>
 
-Here are some ideas to get you started:
+## <center>✨ Who I am ✨</center>
+#### <center>My name is Bastien, I'm a Student Developer. Currently at Epitech school</center>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## <center> :office: Current Activity's :office:</center>
+
+####  <center>I'm currently in Internship for <a href="https://fruitionsciences.com/fr/home" target="_blank">Fruition Sciences</a> </center>
+
+## <center>:computer: Github Stat :computer:</center>
+
+ <p align="center">
+    <image src="https://github-readme-stats-zeta-wine.vercel.app/api?username=BastienBoymond&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true"><br>
+    <image src="https://github-readme-stats-zeta-wine.vercel.app/api/top-langs/?username=BastienBoymond&hide=Shell,makefile&layout=compact&theme=tokyonight"><br>
+</p>
