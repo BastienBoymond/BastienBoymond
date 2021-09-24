@@ -9,8 +9,10 @@
 
 
 
-## <center> :office: Current Activity's :office:</center>
+## <center> :office: History Activity's :office:</center>
 
+####  <center>I did my 1st year at epitech in 2020</center>
+####  <center>I did my 1st training at Ionis STM for pedagogy</center>
 ####  <center>I'm currently in Internship for <a href="https://fruitionsciences.com/fr/home" target="_blank">Fruition Sciences</a> </center>
 
 ## <center>:computer: Github Stats :computer:</center>
