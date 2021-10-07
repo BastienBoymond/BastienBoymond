@@ -19,5 +19,5 @@
 
  <p align="center">
     <image src="https://github-readme-stats-zeta-wine.vercel.app/api?username=BastienBoymond&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true"><br>
-    <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=BastienBoymond&show_icons=true&layout=default&hide=makefile,css&langs_count=6&theme=tokyonight"><br>
+    <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=BastienBoymond&show_icons=true&layout=default&hide=makefile,css&langs_count=6&layout=compact&theme=tokyonight"><br>
 </p>
