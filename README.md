@@ -7,14 +7,6 @@
 ## <center>✨ Who I am ✨</center>
 #### <center>My name is Bastien, I'm a Student Developer. Currently at Epitech school</center>
 
-
-
-## <center> :office: History Activity's :office:</center>
-
-####  <center>I did my 1st year at <a href="https://www.epitech.eu" target="_blank">Epitech</a> in 2020</center>
-####  <center>I did my 1st training at <a href="https://www.ionis-stm.com/" target="_blank">Ionis STM</a> for pedagogy</center>
-####  <center>I'm currently in Internship for <a href="https://fruitionsciences.com/fr/home" target="_blank">Fruition Sciences</a> </center>
-
 ## <center>:computer: Github Stats :computer:</center>
 
  <p align="center">
