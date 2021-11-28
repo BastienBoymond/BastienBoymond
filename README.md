@@ -7,7 +7,7 @@
 ## <center>✨ Who I am ✨</center>
 #### <center>My name is Bastien, I'm a Student Developer. Currently on my second year in Epitech</center>
 
-🌱 I’m currently learning C++ Haskell and VueJs
+🌱 I’m currently learning VueJs
 <br>
 👯 I’m actually in Internship in <a href="https://fruitionsciences.com/fr/home">Fruition Sciences</a>
 
