@@ -9,7 +9,7 @@
 
 🌱 I’m currently learning Haskell and C++
 <br>
-👯 I’m actually in Internship in <a href="https://fruitionsciences.com/fr/home">Fruition Sciences</a>
+👯 I'm not doing anything right now. Ideas ?
 
 ## <center>:computer: Github Stats :computer:</center>
 
