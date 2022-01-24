@@ -7,6 +7,8 @@
 ## <center>✨ Who I am ✨</center>
 #### <center>My name is Bastien, I'm a Student Developer. Currently on my second year in Epitech</center>
 
+🔭 I’m currently working on my second year in Epitech
+<br>
 🌱 I’m currently learning Haskell and C++
 <br>
 👯 I'm not doing anything right now. Ideas ?
