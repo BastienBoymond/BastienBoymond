@@ -9,7 +9,7 @@
 
 🔭 I’m currently working on my second year in Epitech
 <br>
-🌱 I’m currently learning Haskell and C++
+🌱 I’m currently learning Haskell, C++ and Rust
 <br>
 👯 I'm not doing anything right now. Ideas ?
 
