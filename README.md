@@ -5,11 +5,11 @@
 <a href="https://discordapp.com/users/348600729314918411" target="_blank"><img src="https://img.shields.io/badge/-Discord-grey.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></center>
 
 ## <center>✨ Who I am ✨</center>
-#### <center>My name is Bastien, I'm a Student Developer. Currently on my second year in Epitech</center>
+#### <center>My name is Bastien, I'm a Student Developer. Currently on my third year in Epitech</center>
 
-🔭 I’m currently working on my second year in Epitech
+🔭 I’m currently working on my third year in Epitech
 <br>
-🌱 I’m currently learning Haskell, C++ and Rust
+🌱 I’m currently learning Solidify
 <br>
 👯 I'm not doing anything right now. Ideas ?
 
