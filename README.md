@@ -9,7 +9,7 @@
 
 🔭 I’m currently working on my third year in Epitech
 <br>
-🌱 I’m currently learning Solidify
+🌱 I’m currently learning Sklearn, matplotlib, pytorch
 <br>
 👯 I'm not doing anything right now. Ideas ?
 
