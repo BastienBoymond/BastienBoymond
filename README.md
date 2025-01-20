@@ -3,7 +3,7 @@
 
 <div align="center">
     <h1>Hi there I'm Bastien 👋</h1>
-    <h3>  I'm a french student a the <a href="https://www.epitech.eu/">Epitech</a> school in Montpellier. I'm currently in my 4rd year of studies. See my <a href="https://github.com/BastienBoymond/BastienBoymond/blob/main/assets/Cv_BastienBoymond.pdf">resume</a> for more</h3>
+    <h3>  I'm a french student a the <a href="https://www.epitech.eu/">Epitech</a> school in Montpellier. I'm currently in my last year of studies. See my <a href="https://github.com/BastienBoymond/BastienBoymond/blob/main/assets/Cv_BastienBoymond.pdf">resume</a> for more</h3>
 </div>
 
 -----
