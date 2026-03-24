@@ -12,6 +12,9 @@
         When I'm not coding, you'll find me watching anime, reading manga, playing video games, or planning my next travel adventure.
     </p>
     <p>
+        🚀 Currently working on <a href="https://folioma.com">Folioma</a>
+    </p>
+    <p>
         <b>Open to collaborating on interesting projects — feel free to reach out!</b>
     </p>
     <p>
