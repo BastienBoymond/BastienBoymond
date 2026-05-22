@@ -3,7 +3,7 @@
 
 <div align="center">
     <h1>Hey, I'm Bastien 👋</h1>
-    <h3>Software Engineer at <a href="https://www.didask.com/">Didask</a> | Based in France</h3>
+    <h3>Software Engineer at <a href="https://trackit.io">TrackIt</a> | Based in France</h3>
     <p>
         I'm passionate about building things that solve real problems. I love crafting tricky apps that make everyday life easier.<br/>
         My areas of interest include <b>Web Development</b>, <b>Mobile Development</b>, <b>Algorithms</b>, and <b>AI</b>.
@@ -36,4 +36,4 @@
 
 ----
 
-Last Edited on: 31/01/2026
+Last Edited on: 21/05/2026
