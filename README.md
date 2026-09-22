@@ -3,7 +3,7 @@
 
 <div align="center">
     <h1>Hey, I'm Bastien 👋</h1>
-    <h3>Software Engineer at <a href="https://trackit.io">TrackIt</a> | Based in France</h3>
+    <h3>Software Engineer at <a href="https://trackit.io">TrackIt</a> · Working on <a href="https://polsia.com">Polsia</a> | Based in France</h3>
     <p>
         I'm passionate about building things that solve real problems. I love crafting tricky apps that make everyday life easier.<br/>
         My areas of interest include <b>Web Development</b>, <b>Mobile Development</b>, <b>Algorithms</b>, and <b>AI</b>.
@@ -12,13 +12,15 @@
         When I'm not coding, you'll find me watching anime, reading manga, playing video games, or planning my next travel adventure.
     </p>
     <p>
-        🚀 Currently working on <a href="https://folioma.com">Folioma</a>
+        🚀 Personal projects:<br/>
+        <a href="https://folioma.com">Folioma</a> — a stock and cryptocurrency portfolio tracker with interactive visualizations and performance history.<br/>
+        <a href="https://github.com/BastienBoymond/clockify-salary-calculator">Clockify Salary Calculator</a> — a Chrome extension that estimates earnings from tracked hours, configurable deductions, and currencies.
     </p>
     <p>
         <b>Open to collaborating on interesting projects — feel free to reach out!</b>
     </p>
     <p>
-        <a href="https://github.com/BastienBoymond/BastienBoymond/blob/main/assets/Cv_BastienBoymond.pdf">📄 View my Resume</a>
+        📄 <a href="assets/Cv_BastienBoymond.pdf">Resume (English)</a> · <a href="assets/Cv_BastienBoymond_FR.pdf">CV (Français)</a>
     </p>
 </div>
 
@@ -36,4 +38,4 @@
 
 ----
 
-Last Edited on: 21/05/2026
+Last Edited on: 22/09/2026
